@@ -1,0 +1,49 @@
+*
+{
+    margin: 0  auto;
+}
+
+body
+{
+    background-color: rgb(178, 175, 255);
+    color:red ;
+    font-family: 'Monoton', cursive;
+}
+
+header
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+div
+{
+    text-align: center;
+    padding: 10px;
+}
+
+.Choix
+{
+    display: flex;
+    flex-direction: row;
+}
+.Choix img
+{
+    width: 720px;
+    height: 500px;
+    padding: 30px;
+}
+
+.Choix a
+{
+    padding: 30px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px grey;
+}
+main
+{
+    text-align: center;
+}
+    
